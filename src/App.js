@@ -3,6 +3,8 @@ import firebase from "firebase/app";
 import "firebase/auth";
 import "firebase/firestore";
 
-function App() {}
+const App = () => {
+  return <div></div>;
+};
 
 export default App;
