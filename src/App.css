@@ -1,3 +1,7 @@
 .App {
   text-align: center;
 }
+
+.MuiButton-fullWidth {
+  margin-bottom: 20px;
+}
